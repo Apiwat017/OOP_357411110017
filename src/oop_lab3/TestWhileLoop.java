@@ -10,6 +10,7 @@ public class TestWhileLoop {
                 System.out.print("Hello ");
             i++;
         }//while
+
 //    do-while
         System.out.println("\n");
         int j=1;
@@ -19,11 +20,6 @@ public class TestWhileLoop {
                 System.out.print("Hello ");
             j++;
         } while (j <= 10);
-
-
-
-
-
 
     }//main
 }//class

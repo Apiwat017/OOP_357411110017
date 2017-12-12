@@ -12,7 +12,7 @@ public class TestSwitchCase {
         int input;
         System.out.print("Plese enter number (1-3): ");
         input = Integer.parseInt(reader.readLine());
-        switch(input){
+        switch (input) {
             case 1: System.out.println("Your entered 1.");break;
             case 2: System.out.println("Your entered 2.");break;
             case 3: System.out.println("Your entered 3.");break;

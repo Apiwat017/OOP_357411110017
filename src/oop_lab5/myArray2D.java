@@ -37,7 +37,7 @@ public class myArray2D {
         System.out.println("Data in array: ");
         for (int i=0;i<num.length;i++){
             for (int j=0;j<num[i].length;j++){
-                System.out.println(num[i][j]+" ");
+                System.out.print(num[i][j]+" ");
             }//j
             System.out.println();
         }//i

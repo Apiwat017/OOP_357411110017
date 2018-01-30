@@ -10,5 +10,15 @@ public class PersonInfo {
                 "IS:Management Technology");
         System.out.println(student.toString());
         System.out.println(student.getName());
+
+        Employee employee = new Employee("123456789",
+                "Tan",
+                "Male",
+                20,
+                "0843599153",
+                "Apiwat",
+                "10000");
+        System.out.println(employee.toString());
+        System.out.println(employee.getName());
     }
 }
